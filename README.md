@@ -36,12 +36,16 @@ Mute and Silence annoying and repetitive Sound Effects in Turtle WoW
 # What's all muted?
 Various:
 
-Ambient Sounds - Water, Rain, Trams, City, Zone, Instance, and Looping sound annoyances
+Ambient Sounds - Water, Rain, Trams, City, Zone, Instance.
 
 Character Sounds - Error Messages for all races female and male. When you're spamming buttons and your character won't stop saying "Not Enough Energy" and similar errors.
 
-Creature Sounds - This includes the very very very annoying MechaStrider sound effect from the repair bot and mount
+Creature Sounds - This includes the very very very annoying MechaStrider sound effect from the repair bot and mount. The harvest golem footsteps. Many other footsteps. Flapping sounds from birds and bird pets.
 
-Interface Sounds - Various sounds related to professions and opening closing game windows such as the bell ringing sound when opening Auction House, 
+Doodad Sounds - Looping sound annoyances. Machine shop grinding in your ear sounds, wind mills, tornado, fire pits, torches, sizzles, flys, swarms, chain, steam, drum sounds.
+
+Interface Sounds - Various sounds related to professions and opening closing game windows such as the bell ringing sound when opening Auction House.
+
+Item Sounds - That jingle bell ringing sound whever you play a character wearing mail or plate armor. HOOOOLY!!!!
 
 Spells - The very famously annoying Fizzle sounds, more profession sounds, want and auto attack shooting sounds, 
