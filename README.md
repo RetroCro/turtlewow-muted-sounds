@@ -30,5 +30,5 @@ Mute and Silence annoying and repetitive Sound Effects in Turtle WoW
 # Installation Guide
 1. Download this repo - https://github.com/RetroCro/turtlewow-muted-sounds/archive/refs/heads/main.zip
 2. Unzip
-3. Copy the Sound folder to your main Turtle WoW folder where WoW.exe is\
+3. Copy the Sound folder to your main Turtle WoW folder where WoW.exe is. 
 4. Start Game
