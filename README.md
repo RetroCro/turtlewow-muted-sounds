@@ -11,7 +11,7 @@
 	<p align="left">
 		🖥️ <a href="https://forum.turtle-wow.org/viewtopic.php?t=7709">Download Turtle WoW</a><br>
 		🏹 <a href="https://github.com/othneildrew/Best-README-Template">Turtle WoW - Community Wiki</a><br>
-		⌨ <a href="https://turtle-wow.fandom.com/wiki/Sound_Mods">Turtle WoW - Sound Mods</a><br>
+		🔊 <a href="https://turtle-wow.fandom.com/wiki/Sound_Mods">Turtle WoW - Sound Mods</a><br>
 		🗡 <a href="https://turtle-wow.fandom.com/wiki/Addons">Turtle WoW - Addons</a><br>
 		⚔ <a href="https://turtle-wow.fandom.com/wiki/Client_Fixes_and_Tweaks">Turtle WoW - Client Fixes and Tweaks</a><br>
 		⚗️ <a href="https://turtle-wow.fandom.com/wiki/Client_Mods">Turtle WoW - Client Mods</a><br>
@@ -32,3 +32,16 @@ Mute and Silence annoying and repetitive Sound Effects in Turtle WoW
 2. Unzip
 3. Copy the Sound folder to your main Turtle WoW folder where WoW.exe is. 
 4. Start Game
+
+# What's all muted?
+Various:
+
+Ambient Sounds - Water, Rain, Trams, City, Zone, Instance, and Looping sound annoyances
+
+Character Sounds - Error Messages for all races female and male. When you're spamming buttons and your character won't stop saying "Not Enough Energy" and similar errors.
+
+Creature Sounds - This includes the very very very annoying MechaStrider sound effect from the repair bot and mount
+
+Interface Sounds - Various sounds related to professions and opening closing game windows such as the bell ringing sound when opening Auction House, 
+
+Spells - The very famously annoying Fizzle sounds, more profession sounds, want and auto attack shooting sounds, 
