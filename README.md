@@ -46,6 +46,6 @@ Doodad Sounds - Looping sound annoyances. Machine shop grinding in your ear soun
 
 Interface Sounds - Various sounds related to professions and opening closing game windows such as the bell ringing sound when opening Auction House.
 
-Item Sounds - That jingle bell ringing sound whever you play a character wearing mail or plate armor. HOOOOLY!!!!
+Item Sounds - That jingle bell ringing sound whenver you play a character wearing mail or plate armor. HOOOOLY!!!!
 
 Spells - The very famously annoying Fizzle sounds, more profession sounds, want and auto attack shooting sounds.
