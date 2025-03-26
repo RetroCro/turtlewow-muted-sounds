@@ -48,4 +48,4 @@ Interface Sounds - Various sounds related to professions and opening closing gam
 
 Item Sounds - That jingle bell ringing sound whenver you play a character wearing mail or plate armor. HOOOOLY!!!!
 
-Spells - The very famously annoying Fizzle sounds, more profession sounds, want and auto attack shooting sounds.
+Spells - The very famously annoying Fizzle sounds, more profession sounds, wand and auto attack shooting sounds.
