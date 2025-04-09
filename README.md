@@ -49,3 +49,21 @@ Interface Sounds - Various sounds related to professions and opening closing gam
 Item Sounds - That jingle bell ringing sound whenver you play a character wearing mail or plate armor. HOOOOLY!!!!
 
 Spells - The very famously annoying Fizzle sounds, more profession sounds, wand and auto attack shooting sounds.
+
+# There's a Sound I want to silence? How can I change a sound?
+1. First you have to do is identify the sound file you want to mute/change. 
+	- If it's NOT a custom Turtle WoW sound then you can use [WoWHead to search and listen](https://www.wowhead.com/classic/sounds) to all sounds in the game.
+   ![Type Search](https://github.com/user-attachments/assets/356cbd88-bacb-4c82-85e0-ad65321ae9ea)
+	
+   ![Filter Search](https://github.com/user-attachments/assets/67799ec7-2380-4f6d-b753-ad192793deb3)
+   
+2. Find the name of the sound and make a note of it (sometimes there's more multiple variations)
+   
+   ![image](https://github.com/user-attachments/assets/50143476-5b72-4c39-860e-aea000b3c20d)
+   
+4. Download the blank .wav or .ogg template sound file and rename it to match the name of the real sound file
+5. Make a folder called Sound in your main Turtle WoW folde
+6. Put your file in the same path where the real file would be
+
+https://github.com/RetroCro/turtlewow-muted-sounds/raw/refs/heads/blanksounds/BLANKWOWSOUND.wav
+https://github.com/RetroCro/turtlewow-muted-sounds/raw/refs/heads/blanksounds/BLANKWOWSOUND.ogg
