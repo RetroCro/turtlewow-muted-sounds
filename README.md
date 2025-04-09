@@ -65,5 +65,5 @@ Spells - The very famously annoying Fizzle sounds, more profession sounds, wand 
 5. Make a folder called Sound in your main Turtle WoW folde
 6. Put your file in the same path where the real file would be
 
-https://github.com/RetroCro/turtlewow-muted-sounds/raw/refs/heads/blanksounds/BLANKWOWSOUND.wav
-https://github.com/RetroCro/turtlewow-muted-sounds/raw/refs/heads/blanksounds/BLANKWOWSOUND.ogg
+[Download Blank Wav File](https://github.com/RetroCro/turtlewow-muted-sounds/raw/refs/heads/blanksounds/BLANKWOWSOUND.wav)
+[Download Blank Ogg File](https://github.com/RetroCro/turtlewow-muted-sounds/raw/refs/heads/blanksounds/BLANKWOWSOUND.ogg)
