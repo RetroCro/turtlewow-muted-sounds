@@ -68,6 +68,5 @@ Various:
 <br>
 1. Make a folder called **Sound** in your main Turtle WoW folder
 2. Put your file in the same path where the real file would be. 
-	- View List of all Sound File Paths
 
-
+	- [View All Sound Files](https://raw.githubusercontent.com/RetroCro/turtlewow-muted-sounds/refs/heads/main/turtle-sounds-sorted.txt)
