@@ -1,5 +1,5 @@
 
-<h1 align="center" style="border-bottom: none;">Turtle WoW 1.17.2 - Muted/Silenced Sound Effects</h1>
+<h1 align="center" style="border-bottom: none;">Turtle WoW 1.18 - Muted/Silenced Sound Effects</h1>
 	<img align="left" src="https://turtle-wow.org/build/assets/web_logo-zTY2oemL.png" alt="Turtle WoW" width="30%">
 <div id="toc">
   <ul align="center" style="list-style: none">
